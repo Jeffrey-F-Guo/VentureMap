@@ -19,3 +19,8 @@ APIs: Google Maps, Gemini
 
 🧠 Why It Matters
 We wanted to make it easier for people to find things to do without endless scrolling. This tool delivers fast, curated ideas — perfect for spontaneous plans.
+
+
+## Demo
+
+🎥 **Watch the demo:** [YouTube](https://www.youtube.com/watch?v=ww4J3DjF8Eo)
